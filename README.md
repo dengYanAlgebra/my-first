@@ -1,9 +1,9 @@
 # my-first
 Just a start
 
-Dengyan here,I am a university student.
+Dengyan here, I am a university student.
 I have learned C.
-
+```c
 void prime_select()
 {
     prime[0] = prime[1] = 0;
@@ -16,3 +16,4 @@ void prime_select()
         }
     }
 }
+```
